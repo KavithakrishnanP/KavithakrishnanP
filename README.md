@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development...
 - 📙 I’m currently exploring MERN stack...
 - ✉ How to reach me - kavithakrishnansk@gmail.com
-- 🪪 Portfolio- https://kavitha-portfolio-kp1.netlify.app/
+- 🪪 Portfolio- https://kavitha-portfolio-jsd.netlify.app/
 - 📌 LinkedIn - https://www.linkedin.com/in/kavitha-p-69b682170/
 
 
